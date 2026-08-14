@@ -7,6 +7,6 @@ The purpose of Ice Task 1 is to ensure that you are prepared to implement the re
 ## Android studio
 Utilize Bluestacks as virtual device if the emulator within Android Studio is giving you challenges.
 ## API is Pie 8 Pro
-If you get an error on the terminal about the version 36, hardcode to version 37 inside the grandle file (module leve) not the top level. on the targetsdk and version section only. By replacing the 36 with 37 the sync your changes.
+If you get an error on the terminal about the version 36, hardcode to version 37 inside the grandle file (module leve) not the top level. on the targetsdk and version section only. By replacing the 36 with 37 then sync your changes.
 
 ## All the best
